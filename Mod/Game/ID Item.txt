@@ -1,0 +1,669 @@
+Áo vải 3 lỗ-0
+Áo sợi len-1
+Áo vải thô-2
+Áo vải dày-3
+Áo len Pico-4
+Áo giáp sắt-5
+Quần vải đen-6
+Quần sợi len-7
+Quần vải thô-8
+Quần vải dày-9
+Quần vải thô Pico-10
+Quần giáp sắt-11
+Rada cấp 1-12
+Đậu thần cấp 1-13
+Ngọc Rồng 1 sao-14
+Ngọc Rồng 2 sao-15
+Ngọc Rồng 3 sao-16
+Ngọc Rồng 4 sao-17
+Ngọc Rồng 5 sao-18
+Ngọc Rồng 6 sao-19
+Ngọc Rồng 7 sao-20
+Găng vải đen-21
+Găng sợi len-22
+Găng vải thô-23
+Găng thun đen-24
+Găng len Pico-25
+Găng sắt-26
+Giầy nhựa-27
+Giầy sợi len-28
+Giầy vải thô-29
+Giầy cao su-30
+Giầy nhựa Pico-31
+Giầy sắt-32
+Áo thun 3 lỗ-33
+Áo thun dày-34
+Quần thun đen-35
+Quần thun dày-36
+Găng vải dày-37
+Găng thun dày-38
+Giày nhựa đế dày-39
+Giày cao su đế dày-40
+Áo sợi gai-41
+Áo thun Pico-42
+Quần sợi gai-43
+Quần thun Pico-44
+Găng thun Pico-45
+Găng sợi gai-46
+Giầy sợi gai-47
+Giầy cao su Pico-48
+Áo thun thô-49
+Áo giáp đồng-50
+Quần thun thô-51
+Quần giáp đồng-52
+Găng thun thô-53
+Găng đồng-54
+Giầy cao su thô-55
+Giầy đồng-56
+Rada cấp 2-57
+Rada cấp 3-58
+Rada cấp 4-59
+Đậu thần cấp 2-60
+Đậu thần cấp 3-61
+Đậu thần cấp 4-62
+Đậu thần cấp 5-63
+Đậu thần cấp 6-64
+Đậu thần cấp 7-65
+Sách đấm Dragon lv1-66
+Sách đấm Dragon lv2-67
+Sách đấm Dragon lv3-68
+Sách đấm Dragon lv4-69
+Sách đấm Dragon lv5-70
+Sách đấm Dragon lv6-71
+Sách đấm Dragon lv7-72
+Đùi gà-73
+Đùi gà nướng-74
+Đùi heo Xayda-75
+Vàng-76
+Đứa bé-78
+Sách đấm Demon lv1-79
+Sách đấm Demon lv2-80
+Sách đấm Demon lv3-81
+Sách đấm Demon lv4-82
+Sách đấm Demon lv5-83
+Sách đấm Demon lv6-84
+Truyện tranh-85
+Sách đấm Demon lv7-86
+Sách đấm Galick lv1-87
+Sách đấm Galick lv2-88
+Sách đấm Galick lv3-89
+Sách đấm Galick lv4-90
+Sách đấm Galick lv5-91
+Sách đấm Galick lv6-92
+Sách đấm Galick lv7-93
+Sách Kamejoko lv1-94
+Sách Kamejoko lv2-95
+Sách Kamejoko lv3-96
+Sách Kamejoko lv4-97
+Sách Kamejoko lv5-98
+Sách Kamejoko lv6-99
+Sách Kamejoko lv7-100
+Sách Masenko lv1-101
+Sách Masenko lv2-102
+Sách Masenko lv3-103
+Sách Masenko lv4-104
+Sách Masenko lv5-105
+Sách Masenko lv6-106
+Sách Masenko lv7-107
+Sách Antomic lv1-108
+Sách Antomic lv2-109
+Sách Antomic lv3-110
+Sách Antomic lv4-111
+Sách Antomic lv5-112
+Sách Antomic lv6-113
+Sách Antomic lv7-114
+Thái Dương Hạ San lv1-115
+Thái Dương Hạ San lv2-116
+Thái Dương Hạ San lv3-117
+Thái Dương Hạ San lv4-118
+Thái Dương Hạ San lv5-119
+Thái Dương Hạ San lv6-120
+Thái Dương Hạ San lv7-121
+Sách học Trị thương lv1-122
+Sách học Trị thương lv2-123
+Sách học Trị thương lv3-124
+Sách học Trị thương lv4-125
+Sách học Trị thương lv5-126
+Sách học Trị thương lv6-127
+Sách học Trị thương lv7-128
+Tái tạo năng lượng lv1-129
+Tái tạo năng lượng lv2-130
+Tái tạo năng lượng lv3-131
+Tái tạo năng lượng lv4-132
+Tái tạo năng lượng lv5-133
+Tái tạo năng lượng lv6-134
+Tái tạo năng lượng lv7-135
+Áo vải Kame-136
+Áo thun Kame-137
+Áo võ Kame-138
+Áo võ Goku-139
+Quần vải Kame-140
+Quần thun Kame-141
+Quần võ Kame-142
+Quần võ goku-143
+Găng vải Kame-144
+Găng thun Kame-145
+Găng võ Kame-146
+Găng võ goku-147
+Giày nhựa Kame-148
+Giày cao su Kame-149
+Giày võ kame-150
+Giày võ goku-151
+Áo choàng len-152
+Áo choàng thun-153
+Áo vải Pico-154
+Áo da Pico-155
+Quần len cứng-156
+Quần thun cứng-157
+Quần vải cứng Pico-158
+Quần vải mềm Pico-159
+Găng len cứng-160
+Găng thun cứng-161
+Găng vải Pico-162
+Găng da Pico-163
+Giày nhựa cứng-164
+Giày cao su cứng-165
+Giày da Pico-166
+Giày sắt Pico-167
+Áo giáp bạc-168
+Áo giáp vàng-169
+Áo lông Xayda-170
+Áo khoác Xayda-171
+Quần giáp bạc-172
+Quần giáp vàng-173
+Quần lông Xayda-174
+Quần da Xayda-175
+Găng bạc-176
+Găng vàng-177
+Găng lông Xayda-178
+Găng da Xayda-179
+Giày bạc-180
+Giày vàng-181
+Giày lông Xayda-182
+Giày da Xayda-183
+Rada cấp 5-184
+Rada cấp 6-185
+Rada cấp 7-186
+Rada cấp 8-187
+Cà chua-191
+Cà rốt-192
+Gói 10 viên Capsule-193
+Viên Capsule đặc biệt-194
+Siêu thánh thủy-195
+Avatar-196
+Nho tím-211
+Nho xanh-212
+Bùa Trí Tuệ-213
+Bùa Mạnh Mẽ-214
+Bùa Da Trâu-215
+Bùa Oai Hùng-216
+Bùa Bất Tử-217
+Bùa Dẻo Dai-218
+Bùa Thu Hút-219
+Đá lục bảo-220
+Đá Saphia-221
+Đá Ruby-222
+Đá Titan-223
+Đá thạch anh tím-224
+Mảnh đá vụn-225
+Bình nước phép-226
+Avatar VIP-227
+Áo bạc Goku-230
+Áo vàng Goku-231
+Áo da Calic-232
+Áo jean Calic-233
+Áo sắt Tron-234
+Áo đồng Tron-235
+Áo bạc Zealot-236
+Áo vàng Zealot-237
+Áo lông đỏ-238
+Áo siêu xayda-239
+Áo Kaio-240
+Áo lưỡng long-241
+Quần bạc Goku-242
+Quần vàng Goku-243
+Quần da Calic-244
+Quần jean Calic-245
+Quần sắt Tron-246
+Quần đồng Tron-247
+Quần bạc Zealot-248
+Quần vàng Zealot-249
+Quần lông đỏ-250
+Quần siêu Xayda-251
+Quần Kaio-252
+Quần lưỡng long-253
+Găng bạc Goku-254
+Găng vàng Goku-255
+Găng da Calic-256
+Găng jean Calic-257
+Găng sắt Tron-258
+Găng đồng Tron-259
+Găng bạc Zealot-260
+Găng vàng Zealot-261
+Găng lông đỏ-262
+Găng siêu Xayda-263
+Găng Kaio-264
+Găng lưỡng long-265
+Giày bạc Goku-266
+Giày vàng Goku-267
+Giày da Calic-268
+Giày jean Calic-269
+Giày sắt Tron-270
+Giày đồng Tron-271
+Giày bạc Zealot-272
+Giày vàng Zealot-273
+Giày lông đỏ-274
+Giày siêu Xayda-275
+Giày Kaio-276
+Giày lưỡng long-277
+Rada cấp 9-278
+Rada cấp 10-279
+Rada cấp 11-280
+Rada cấp 12-281
+Cải trang-282
+Gói 30 đậu thần cấp 1-293
+Gói 30 đậu thần cấp 2-294
+Gói 30 đậu thần cấp 3-295
+Gói 30 đậu thần cấp 4-296
+Gói 30 đậu thần cấp 5-297
+Gói 30 đậu thần cấp 6-298
+Gói 30 đậu thần cấp 7-299
+Kaioken lv1-300
+Kaioken lv2-301
+Kaioken lv3-302
+Kaioken lv4-303
+Kaioken lv5-304
+Kaioken lv6-305
+Kaioken lv7-306
+Quả cầu Kênh Khi lv1-307
+Quả cầu Kênh Khi lv2-308
+Quả cầu Kênh Khi lv3-309
+Quả cầu Kênh Khi lv4-310
+Quả cầu Kênh Khi lv5-311
+Quả cầu Kênh Khi lv6-312
+Quả cầu Kênh Khi lv7-313
+Hóa khỉ khổng lồ lv1-314
+Hóa khỉ khổng lồ lv2-315
+Hóa khỉ khổng lồ lv3-316
+Hóa khỉ khổng lồ lv4-317
+Hóa khỉ khổng lồ lv5-318
+Hóa khỉ khổng lồ lv6-319
+Hóa khỉ khổng lồ lv7-320
+Bom hi sinh lv1-321
+Bom hi sinh lv2-322
+Bom hi sinh lv3-323
+Bom hi sinh lv4-324
+Bom hi sinh lv5-325
+Bom hi sinh lv6-326
+Bom hi sinh lv7-327
+Makankosappo lv1-328
+Makankosappo lv2-329
+Makankosappo lv3-330
+Makankosappo lv4-331
+Makankosappo lv5-332
+Makankosappo lv6-333
+Makankosappo lv7-334
+Đẻ trứng lv1-335
+Đẻ trứng lv2-336
+Đẻ trứng lv3-337
+Đẻ trứng lv4-338
+Đẻ trứng lv5-339
+Đẻ trứng lv6-340
+Đẻ trứng lv7-341
+Vệ tinh trí lực-342
+Vệ tinh trí tuệ-343
+Vệ tinh phòng thủ-344
+Vệ tinh sinh lực-345
+Cân đẩu vân-346
+Phi Long-347
+Ván bay-348
+Cân đẩu vân VIP-349
+Phi Long VIP-350
+Ván bay VIP-351
+Đậu thần cấp 8-352
+Ngọc Rồng Namek 1 Sao-353
+Ngọc Rồng Namek 2 Sao-354
+Ngọc Rồng Namek 3 Sao-355
+Ngọc Rồng Namek 4 Sao-356
+Ngọc Rồng Namek 5 Sao-357
+Ngọc Rồng Namek 6 Sao-358
+Ngọc Rồng Namek 7 Sao-359
+Gói 10 Rađa dò ngọc-361
+Hóa thạch Ngọc Rồng-362
+Tháo cờ-363
+Cờ xanh-364
+Cờ đỏ-365
+Cờ tím-366
+Cờ vàng-367
+Cờ lục-368
+Cờ hồng-369
+Cờ cam-370
+Cờ đen-371
+Ngọc rồng 1 sao đen-372
+Ngọc rồng 2 sao đen-373
+Ngọc rồng 3 sao đen-374
+Ngọc rồng 4 sao đen-375
+Ngọc rồng 5 sao đen-376
+Ngọc rồng 6 sao đen-377
+Ngọc rồng 7 sao đen-378
+Máy dò Capsule kì bí-379
+Viên Capsule kì bí-380
+Cuồng nộ-381
+Bổ huyết-382
+Bổ khí-383
+Giáp Xên bọ hung-384
+Ẩn danh-385
+Nón Noel Xám-386
+Nón Noel Đỏ-387
+Nón Noel Xanh-388
+Nhân vật bí ẩn-395
+Thú cưỡi cực VIP-396
+Hộp quà tết-397
+Thiệp chúc tết-399
+Đặt tên đệ tử-400
+Đổi đệ tử-401
+Nâng cấp kỹ năng 1 đệ tử-402
+Nâng cấp kỹ năng 2 đệ tử-403
+Nâng cấp kỹ năng 3 đệ tử-404
+Khiên năng lượng lv1-434
+Khiên năng lượng lv2-435
+Khiên năng lượng lv3-436
+Khiên năng lượng lv4-437
+Khiên năng lượng lv5-438
+Khiên năng lượng lv6-439
+Khiên năng lượng lv7-440
+Sao pha lê-441
+Chiến thuyền Tennis-453
+Bông tai Porata-454
+Thỏi vàng-457
+Phiếu giảm giá-459
+Cục xương-460
+Củ cà rốt-462
+Bánh Trung Thu 1 trứng-465
+Bánh Trung Thu 2 trứng-466
+Lồng đèn Ông Sao-467
+Lồng đèn Cá chép-468
+Lồng đèn Kéo Quân-469
+Lồng đèn Ông trăng-470
+Lồng đèn Hội An-471
+Bánh Trung Thu Đặc Biệt-472
+Hộp bánh Trung Thu-473
+Sách Biến Sôcôla lv1-474
+Sách Biến Sôcôla lv2-475
+Sách Biến Sôcôla lv3-476
+Sách Biến Sôcôla lv4-477
+Sách Biến Sôcôla lv5-478
+Sách Biến Sôcôla lv6-479
+Sách Biến Sôcôla lv7-480
+Sách Liên hoàn lv1-481
+Sách Liên hoàn lv2-482
+Sách Liên hoàn lv3-483
+Sách Liên hoàn lv4-484
+Sách Liên hoàn lv5-485
+Sách Liên hoàn lv6-486
+Sách Liên hoàn lv7-487
+Sách Dịch Chuyển lv1-488
+Sách Dịch Chuyển lv2-489
+Sách Dịch Chuyển lv3-490
+Sách Dịch Chuyển lv4-491
+Sách Dịch Chuyển lv5-492
+Sách Dịch Chuyển lv6-493
+Sách Dịch Chuyển lv7-494
+Sách Thôi Miên lv1-495
+Sách Thôi Miên lv2-496
+Sách Thôi Miên lv3-497
+Sách Thôi Miên lv4-498
+Sách Thôi Miên lv5-499
+Sách Thôi Miên lv6-500
+Sách Thôi Miên lv7-501
+Sách Trói lv1-502
+Sách Trói lv2-503
+Sách Trói lv3-504
+Sách Trói lv4-505
+Sách Trói lv5-506
+Sách Trói lv6-507
+Sách Trói lv7-508
+Sách Huýt Sáo lv1-509
+Sách Huýt Sáo lv2-510
+Sách Huýt Sáo lv3-511
+Sách Huýt Sáo lv4-512
+Sách Huýt Sáo lv5-513
+Sách Huýt Sáo lv6-514
+Sách Huýt Sáo lv7-515
+Mở rộng hành trang-517
+Mở rộng rương đồ-518
+Cờ Kaiô-519
+Cờ Mabư-520
+Tự động luyện tập-521
+Bùa Đệ Tử-522
+Đậu thần cấp 9-523
+Giáp tập luyện cấp 1-529
+Giáp tập luyện cấp 2-530
+Giáp tập luyện cấp 3-531
+Quỷ Chim-532
+Kẹo giáng sinh-533
+Chữ giải-537
+Chữ khai-538
+Chữ phong-539
+Chữ ấn-540
+Quả Hồng Đào-541
+Quả Hồng Đào Chín-542
+Vòng Kim Cô-543
+Pháo bông-553
+Siêu Pháo bông x100-554
+Áo Thần Linh-555
+Quần Thần Linh-556
+Áo Thần Namếc-557
+Quần Thần namếc-558
+Áo Thần Xayda-559
+Quần Thần Xayda-560
+Nhẫn Thần Linh-561
+Găng Thần Linh-562
+Giầy Thần Linh-563
+Găng Thần Namếc-564
+Giầy Thần Namếc-565
+Găng Thần Xayda-566
+Giầy Thần Xayda-567
+Quả Trứng-568
+Dưa Hấu-569
+Rương Gỗ-570
+Rương Bạc-571
+Rương Vàng-572
+Capsule Bạc-573
+Capsule Vàng-574
+Đuôi khỉ-579
+Cải trang Póc-583
+Bí ngô-585
+Bông hoa-589
+Bí kiếp-590
+Cải trang Siêu Thần-591
+Cải trang Yardrat-592
+Đậu thần cấp 10-595
+Gói 30 đậu thần cấp 8-596
+Gói 30 đậu thần cấp 9-597
+Cải trang Hợp Thể-601
+Cải trang VIP-604
+Cải trang Chan Xư-607
+Cải trang Lão Cận-608
+Cải trang Xayda-609
+Bản đồ kho báu-611
+Cải trang Arale-612
+Cải trang Gatchan-613
+Cải trang Obotchaman-614
+Cải trang Luffy-618
+Cải trang Zoro-619
+Cải trang Sanji-620
+Cải trang Brook-621
+Cải trang Chopper-622
+Cải trang Nami-623
+Cải trang Franky-624
+Cải trang Usopp-625
+Cải trang Robin-626
+Capsule quà tặng-627
+Cải trang Hải Tặc-628
+Cải trang Fide vàng-629
+Cải trang Frost 1-630
+Cải trang Frost 2-631
+Cải trang Frost 3-632
+Cải trang Píc-633
+Cải trang King kong-634
+Cải trang Pi láp-635
+Cải trang Mai-636
+Cải trang Su-637
+Bình chứa Commeson-638
+Cải trang ma trơi-642
+Cải trang dơi nhí-643
+Cải trang bộ xương-644
+Cải trang Saibamen-647
+Hộp quà giáng sinh-648
+Tất, vớ giáng sinh-649
+Áo Hủy Diệt-650
+Quần Hủy Diệt-651
+Nhẫn Hủy Diệt-656
+Găng Hủy Diệt-657
+Giầy Hủy Diệt-658
+Bánh Pudding-663
+Xúc xích-664
+Kem dâu-665
+Mì ly-666
+Sushi-667
+Hộp quà Tết 2019-668
+Bùa Trí Tuệ x3-671
+Bùa Trí Tuệ x4-672
+abcd-673
+Đá ngũ sắc-674
+Quần đi biển-691
+Trái dừa-694
+Vỏ ốc-695
+Vỏ sò-696
+Con cua-697
+Sao biển-698
+HP + 400K-699
+Sức đánh +20K-700
+KI + 400K-701
+Bí ngô 1 sao-702
+Bí ngô 2 sao-703
+Bí ngô 3 sao-704
+Bí ngô 4 sao-705
+Bí ngô 5 sao-706
+Bí ngô 6 sao-707
+Bí ngô 7 sao-708
+Bắt-713
+Đại-714
+Vương-715
+Urôn-716
+Bao Lì Xì-717
+Vé tặng ngọc-718
+Mảnh cải trang-720
+Phiếu giảm giá VIP-721
+Capsule hồng-722
+Bông hồng-723
+Siêu thần thủy-725
+Mảnh giấy có chữ 'MA'-726
+Cải trang Hatchiyack-729
+Cải trang Sói Basil-730
+Cải trang Sói Lavender-731
+Cải trang Sói Bergamo-732
+Cân đẩu vân ngũ sắc-733
+Ngọc Thố-734
+Lồng đèn cá chép-735
+Hộp quà 5 sao-736
+Capsule Trung Thu-737
+Cải trang Dr Lychee-738
+Cải trang Bill Bí Ngô-739
+Lưỡi hái Thần Chết-740
+Cánh dơi Dracula-741
+Cải trang Caufila Dơi-742
+Chổi bay Phù Thủy-743
+Cột nhà-744
+Bông tuyết-745
+Xe tuần lộc-746
+Cờ xanh dương-747
+Thịt heo-748
+Thúng nếp-749
+Thúng đậu xanh-750
+Lá dong-751
+Bánh tét-752
+Bánh chưng-753
+Nón Chuột may mắn-754
+Túi Canh Tý 2020-757
+Capsule Tết 2021-758
+Nâng cấp kỹ năng 4 đệ tử-759
+Avatar đeo khẩu trang-761
+Khẩu trang-764
+Cải trang Gohan Bư-765
+Cờ xám-766
+Cờ xanh lá-768
+Cờ xanh biển-769
+Cờ xanh dạ-774
+Khăn xanh lá-776
+Khăn xanh dương-777
+Khăn vàng-778
+Khăn tím-779
+Khăn nâu-780
+Khăn xám-781
+Khăn đỏ-782
+Khăn hồng-783
+Khăn xanh dạ-784
+Ba lô-785
+Đao-786
+Gậy-787
+Mai rùa-788
+Giỏ bơ-789
+Giỏ dưa hấu-790
+Giỏ củ cải trắng-791
+Giỏ cà rốt-792
+Giỏ chuối-793
+Gậy phép-794
+Ghế bay-795
+Hộp Capsule-796
+Lồng đèn Con tàu-801
+Lồng đèn Con gà-802
+Lồng đèn Con bướm-803
+Lồng đèn Đôrêmon-804
+Nón thiên thần-805
+Cải trang Đôrêmon-806
+Ngọc đen 1 sao-807
+Ngọc đen 2 sao-808
+Ngọc đen 3 sao-809
+Ngọc đen 4 sao-810
+Ngọc đen 5 sao-811
+Ngọc đen 6 sao-812
+Ngọc đen 7 sao-813
+Ma trơi-814
+Hồn ma Goku-815
+Hồn ma Ca đíc-816
+Hồn ma Pôcôlô-817
+Capsule Halloween-818
+Cải trang Xuka-819
+Vé quay ngọc đen-820
+Vé quay ngọc vàng-821
+Cây thông-822
+Túi quà-823
+Cải trang Noel-824
+Mảnh Khủng long-828
+Mảnh Lợn lòi-829
+Mảnh Quỷ đất-830
+Mảnh Khủng long mẹ-831
+Mảnh Lợn lòi mẹ-832
+Mảnh Quỷ đất mẹ-833
+Mảnh Thằn lằn bay-834
+Mảnh Phi long-835
+Mảnh Quỷ bay-836
+Mảnh Lính độc nhãn-837
+Mảnh Sói xám-839
+Mảnh Trung úy Trắng-840
+Mảnh Ninja Áo Tím-841
+Mảnh Trung úy Xanh Lơ-842
+Cải trang Trâu vàng-843
+Cải trang Trâu đen-844
+Cải trang Trâu trắng-845
+Nón Trâu may mắn-846
+Pháo Thăng Thiên-849
+Cỏ tươi-850
+Cây trúc-852
+Cải trang Trâu Nâu-853
+Cải trang Trâu Đốm-856
+Mảnh Độc Nhãn-859
+Cải trang Mị Nương-860
+Hồng ngọc-861
